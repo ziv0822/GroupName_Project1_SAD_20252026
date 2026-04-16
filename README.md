@@ -20,10 +20,10 @@ This repository contains the project planning artifacts for the **System Analysi
 ![PERT Table 2](https://github.com/user-attachments/assets/71961aac-43a7-4f60-b1b7-d0a4fcdc99b8)
 
 ### PERT Network Diagram
-![PERT Chart](https://github.com/user-attachments/assets/65744c08-dba1-4944-bb65-8ea732164af8)
+![PERT Network ](https://github.com/user-attachments/assets/71961aac-43a7-4f60-b1b7-d0a4fcdc99b8)
 
 ---
 
 ## Gantt Chart
 
-_Add your Gantt Chart image here._
+![Gantt Chart](https://github.com/user-attachments/assets/65744c08-dba1-4944-bb65-8ea732164af8)
